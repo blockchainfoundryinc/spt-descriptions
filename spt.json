@@ -5,12 +5,5 @@
     "name": "AGXS Coin",
     "url": "http://agxpay.com",
     "logo": "../../assets/images/agxcoin.png"
-  },
-  "SYS-135354521": {
-    "asset_guid": 135354521,
-    "symbol": "CPS",
-    "name": "CPS Coin",
-    "url": "http://coinpayments.com",
-    "logo": "https://www.derrotalacrisis.com/wp-content/uploads/cps-coin-compressor.jpg"
   }
 }
